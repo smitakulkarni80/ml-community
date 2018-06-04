@@ -13,7 +13,8 @@
 * SVM Classification
 
 ## Lab 2 - Second order optimization - Jacobian, hessian, laplacian
- Newtons method for logistic regression
+* Logistic Regression 
+* Newtons method for logistic regression
  
 ## Lab 3 - Vectors - Vector spaces, vector norms, matrices
  L1 - L2 Regularization
