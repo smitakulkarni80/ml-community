@@ -13,8 +13,24 @@
 * SVM Classification
 
 ## Lab 2 - Second order optimization - Jacobian, hessian, laplacian
+* Probability terms - Random variables,Expectations,Variance
+* Types of Probability - joint, conditional, bayes rule, chain rule 
+  * (Latent Dirichlet Allocation - LDA on text dataset)
+* Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
+* Laplacian Approximation
 * Logistic Regression 
 * Newtons method for logistic regression
  
-## Lab 3 - Vectors - Vector spaces, vector norms, matrices
- L1 - L2 Regularization
+## Lab 3 - Vectors & Dimensionality Reduction
+### (Vector spaces,Vector Norm,matrix decomposition,eigenvectors,eigenvalues)
+* L1 - L2 Regularization
+* Principal Component Analysis - PCA
+
+## Lab 4 
+* kNN
+* k-means
+
+## Lab 5 
+* Decision Trees
+* Random Forests
+* Ensemble Methods
