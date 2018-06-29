@@ -12,17 +12,19 @@ The later part of thee Lab will focus on the classification problems using the c
 
 ## Sequence
 
-1.) Resources Section [here](https://github.com/ELSPL/ml-community/tree/master/Labs/Resources)
+1.) Resources Section [here](https://github.com/ELSPL/ml-community/blob/master/Labs/Resources/Resources.ipynb)
   - Resources concerning regression like gradient descent. Leave the SVM part for now
 
 2.) Linear_regression_and_Polynomial_Regression
 
-3.) Linreg
+3.) Build your own code for linear regression
 
-4.) Resources section [here](https://github.com/ELSPL/ml-community/tree/master/Labs/Resources)
+4.) Resources section [here](https://github.com/ELSPL/ml-community/blob/master/Labs/Resources/Resources.ipynb)
   - Resources concerning SVM
   
-5.) SVM
+5.) SVMld your own code for SVM
+
+6.) Bui
 
 ## Brief Introduction of exercises
 
