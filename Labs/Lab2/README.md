@@ -24,10 +24,11 @@
   - Build your own code
   
   ## Brief Introduction about Exercises
+    
     1.) Resources
       - The mathematical concepts of statistics
       - Reference Notebooks contain a good visual example using toy data as well as real data
      
     2.) Logistic Regression and MAP
-      - Example notebooks on Logisticc Regression using MLE and Maximum A Posteriori(Naive Bayes)
+      - Example notebooks on Logistic Regression using MLE and Maximum A Posteriori(Naive Bayes)
   
