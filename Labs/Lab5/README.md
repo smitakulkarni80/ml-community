@@ -26,7 +26,9 @@
 ## Brief Explanation
 
   1.) Resources
+  
     - Learn the basic principles and advantages of Decision Trees, Random Forests, and see why ensemble methods and random forests are the most widely used and give the most accuracy
   
   2.) Decision Tree notebook and reference notebooks
+  
     - Learn from example notebooks which try to teach the concept in a pictorial way on toy and real data.
