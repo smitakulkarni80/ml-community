@@ -22,9 +22,11 @@ The later part of thee Lab will focus on the classification problems using the c
 4.) Resources section [here](https://github.com/ELSPL/ml-community/blob/master/Labs/Resources/Resources.ipynb)
   - Resources concerning SVM
   
-5.) SVMld your own code for SVM
+5.) SVM
 
-6.) Bui
+6.) Build your own code for SVM
+
+7.) Reference Code [here](https://github.com/ELSPL/ml-community/tree/master/Labs/Resources)
 
 ## Brief Introduction of exercises
 
@@ -32,7 +34,7 @@ The later part of thee Lab will focus on the classification problems using the c
   - Learn the math behind the Gradient Descent and Normal Equation
   - Learn the basic workflow of the Linear and Polynomial Regression
   
-2.) Linear_regression_and_Polynomial_Regression, Linreg
+2.) Linear_regression_and_Polynomial_Regression and Reference Code
   - Learn about the concept from example notebooks. The notebooks contain visual representations based on toy data as well as usage on real data. Implementation from scratch as well as using sk-learn is done.
   
 3.) Resources(SVM)
